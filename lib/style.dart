@@ -4,6 +4,9 @@ import 'package:flutter/material.dart';
 const Color babyBlue = Color(0xFF19a4bb);
 const Color lightBlue = Color(0xFF11b3d4);
 
+//Define image
+const String cloudUpload = "asset/image/cloud_upload.svg";
+
 //Define typography with white color
 const TextStyle wsemiBold = TextStyle(
     fontFamily: "OpenSans", color: Colors.white, fontWeight: FontWeight.w600);
